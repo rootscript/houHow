@@ -2,7 +2,7 @@
 My structured WIP plan to learn Houdini.
 
 
-
+![Screenshot 20191104 at 11.34.38.jpg](0)
 
 ---
 ### history
