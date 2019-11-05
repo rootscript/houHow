@@ -12,4 +12,4 @@ Originally started this plan in LucidChart, mapping the outline and adding notes
 2. comment icons were huge when zoomed out (birdseye view)
 3. my notes/comments were stored inline
 
-So I started looking at other software that combined mindmaps and markdown creation.  The mindmap would be great for laying out an outline of topics and restructing them, and markdown is a clean way to add text
+So I started looking at other software that combined mindmaps and markdown creation.  The mindmap would be great for laying out an outline of topics and restructing them, and markdown is a clean way to add text, links, images and videos (youtube & vimeo).
