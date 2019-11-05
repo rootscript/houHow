@@ -31,5 +31,6 @@ tokeru
 ### VEX code
 
 ```python
-for
+for i in items
+	print(i)
 ```
