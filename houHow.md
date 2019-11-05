@@ -22,4 +22,10 @@ I started researching I found the following:
 
 [Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
 
-[MindForger](https://www.mindforger.com/) - Thinking Notebook &amp; Markdown IDE --- ### other links https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/ https://tobloef.com/text2mindmap/ ## What can hou do? ## Where are the Learning Resources? ## Which Topics to Learn ### Interface ### Working withe Nodes ### VEX code</p><p><br></p>
+[MindForger](https://www.mindforger.com/) - Thinking Notebook &amp; Markdown IDE
+
+---
+### other links 
+https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/
+
+https://tobloef.com/text2mindmap/ ## What can hou do? ## Where are the Learning Resources? ## Which Topics to Learn ### Interface ### Working withe Nodes ### VEX code</p><p><br></p>
