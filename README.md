@@ -30,6 +30,6 @@ I started researching I found the following:
 
 ---
 ### other links:
-[](https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/)
+https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/
 
 https://tobloef.com/text2mindmap/
