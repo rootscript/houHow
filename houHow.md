@@ -28,4 +28,10 @@ I started researching I found the following:
 ### other links 
 https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/
 
-https://tobloef.com/text2mindmap/ ## What can hou do? ## Where are the Learning Resources? ## Which Topics to Learn ### Interface ### Working withe Nodes ### VEX code</p><p><br></p>
+https://tobloef.com/text2mindmap/
+
+## What can hou do?
+## Where are the Learning Resources?
+## Which Topics to Learn
+### Interface
+### Working withe Nodes ### VEX code</p><p><br></p>
