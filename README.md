@@ -12,4 +12,4 @@ Originally started this plan in LucidChart, mapping the outline and adding notes
 - comment icons were huge when zoomed out (birdseye view)
 - my notes/comments were stored inline
 
-So istarted looking at other software that combined min
+So I started looking at other software that combined mindmaps and markdown creation.  The mindmap was great for laying out an ou
