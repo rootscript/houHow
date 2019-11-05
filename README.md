@@ -14,4 +14,6 @@ Originally started this plan in LucidChart, mapping the outline and adding notes
 
 So I started looking at other software that combined mindmaps and markdown creation.  The mindmap would be great for laying out an outline of topics and restructing them, and markdown is a clean way to add text, links, images and videos (youtube & vimeo).
 
-I started researching an 
+I started researching anf found the following:
+
+[](gitnote)
