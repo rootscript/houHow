@@ -4,6 +4,7 @@ My structured WIP plan to learn Houdini.
 
 ![Screenshot 20191104 at 11.34.38.jpg](0)
 ![title](.local/static/2019/10/2/Screenshot 2019-11-04 at 11.34.38.1572982288675.jpg)
+
 ---
 ### history
 Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  I ran into some issues that bothered me:
