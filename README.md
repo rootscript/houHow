@@ -22,4 +22,5 @@ I started researching I found the following:
 
 [markdown-mindmap](https://atom.io/packages/markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
 
- - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
+[WriteMapper 2](https://writemapper.com/) - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
+
