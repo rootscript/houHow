@@ -16,7 +16,7 @@ So I started looking at other software that combined mindmaps and markdown creat
 
 I started researching I found the following:
 
-[gitnote](https://github.com/zhaopengme/gitnote)
+[gitnote](https://github.com/zhaopengme/gitnote) - A modern
 
 [NoteLynX Pro Outliner Mindmap Wiki](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB)
 
