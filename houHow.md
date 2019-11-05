@@ -8,6 +8,7 @@
 
 ![title](.local/static/2019/10/2/Screenshot_substanvePluginV2.1572982442015.jpg)
 
+### v18 features
 
 ## Where are the Learning Resources?
 
@@ -19,6 +20,8 @@ tokeru
 - two
 
 [goo](http://google.com)
+
+### Joy of VEX
 
 ## Which Topics to Learn
 
