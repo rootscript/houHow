@@ -16,4 +16,4 @@ So I started looking at other software that combined mindmaps and markdown creat
 
 I started researching anf found the following:
 
-[](gitnote)
+gitnote
