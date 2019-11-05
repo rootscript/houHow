@@ -30,7 +30,7 @@ tokeru
 
 ### VEX code
 
-```python
+```p
 for i in items
 	print(i)
 ```
