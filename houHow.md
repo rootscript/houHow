@@ -30,7 +30,8 @@ tokeru
 
 ### VEX code
 
-```p
-for i in items
-	print(i)
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
 ```
