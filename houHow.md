@@ -8,6 +8,10 @@
 
 ## Where are the Learning Resources?
 
+### cgwiki
+
+tokeru
+
 ## Which Topics to Learn
 
 ### Interface
