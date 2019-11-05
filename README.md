@@ -1,2 +1,9 @@
 # houHow
-My structured WIP plan to learn Houdini
+My structured WIP plan to learn Houdini.
+
+
+
+
+---
+### history
+Originally started this 
