@@ -2,7 +2,6 @@
 My structured WIP plan to learn Houdini.
 
 
-![title](.local/static/2019/10/2/Screenshot_substanvePluginV2.1572982442015.jpg)
 ---
 ### history
 Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  I ran into some issues that bothered me:
