@@ -27,3 +27,6 @@ I started researching I found the following:
 [Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
 
 [MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE
+
+---
+### other links:
