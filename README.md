@@ -21,3 +21,5 @@ I started researching I found the following:
 [NoteLynX Pro Outliner Mindmap Wiki](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB)
 
 [markdown-mindmap](https://atom.io/packages/markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
+
+ - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
