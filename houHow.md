@@ -34,4 +34,5 @@ https://tobloef.com/text2mindmap/
 ## Where are the Learning Resources?
 ## Which Topics to Learn
 ### Interface
-### Working withe Nodes ### VEX code</p><p><br></p>
+### Working withe Nodes
+### VEX code</p><p><br></p>
