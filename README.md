@@ -18,7 +18,7 @@ I started researching I found the following:
 
 [gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT
 
-[NoteLynX Pro Outliner Mindmap Wiki](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB)
+[NoteLynX Pro](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB) - 3-in-1 Outliner, Mindmap and Personal Wiki. An Outliner for Hierarchical Lists, a Mindmap for Graphical Tree View and embedded Hyperlinks to cross reference your notes.
 
 [markdown-mindmap](https://atom.io/packages/markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
 
