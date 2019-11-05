@@ -19,3 +19,4 @@ I started researching I found the following:
 [gitnote](https://github.com/zhaopengme/gitnote)
 
 [NoteLynX Pro Outliner Mindmap Wiki](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB)
+
