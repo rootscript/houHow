@@ -37,7 +37,7 @@ I started researching I found the following:
 - This seems amazing for restructuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hidden away (maybe linked to a heavy keyboard shortcut workflow).
 - I need to spend more time in this totally free app.
 
-#### TiddlyMap
+#### TiddlyMap - Map drawing and topic visualization for your Tiddlyiki!
 
 
 ---
