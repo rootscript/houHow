@@ -54,10 +54,10 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 <p><a href="https://vimeo.com/318335199">[TUTORIAL] Game Tools | AliceVision</a> from <a href="https://vimeo.com/ambrosiussen">Paul Ambrosiussen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 <div class="sketchfab-embed-wrapper">
-    <iframe title="A 3D model" width="800" height="480" src="https://sketchfab.com/models/92468cb8a14a42f39c6ab93d24c55926/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    <iframe title="A 3D model" width="800" height="480" src="https://sketchfab.com/models/791850b543fe4616b26a08bbc0134bad/embed" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;">
-    <a href="https://sketchfab.com/3d-models/monstree-92468cb8a14a42f39c6ab93d24c55926?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Monstree</a>
+    <a href="https://sketchfab.com/3d-models/wooden-lion-791850b543fe4616b26a08bbc0134bad?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Wooden Lion</a>
     by <a href="https://sketchfab.com/AliceVision?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">AliceVision</a>
     on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
 </p>
