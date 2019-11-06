@@ -18,7 +18,7 @@
 
 ### SideFX Labs Tools
 
-#### Instant Meshes Quad Remesher
+#### Instant Meshes  Quad Remesher
 
 [VIDEO](https://youtu.be/7X-r_XarMLI?t=1512)
 
