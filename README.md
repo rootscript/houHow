@@ -4,7 +4,7 @@ My structured WIP plan to learn Houdini.
 
 ---
 ## Finding a suitable Markdown editor / outliner
-If I am going to collate & document & process from lots of different sources a be
+If I am going to collate & document & process from lots of different sources a bespoke plan, I am going to need tools that
 
 ### Currently using `gitnote` on this Github repo
 I testing in MacOS now, but there is a Windows installer & a portable that I need to test.
