@@ -34,7 +34,7 @@ I started researching I found the following:
 - I downloaded the trial, appears to have everything somewhere, very complex sofware, I may need to spend more time with this to see if the output is proprietry.
 
 #### [MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE.
-- 
+- This seems amazing, but useage is very difficuy
 
 ---
 ### other links
