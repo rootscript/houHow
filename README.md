@@ -37,9 +37,15 @@ I started researching I found the following:
 - This seems amazing for restructuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hidden away (maybe linked to a heavy keyboard shortcut workflow).
 - I need to spend more time in this totally free app.
 
-#### TiddlyMap - Map drawing and topic visualization for your TiddlyWiki.
+#### [TiddlyMap](http://tiddlymap.org/) - Map drawing and topic visualization for your TiddlyWiki.
 - The motivation behind TiddlyMap is to combine the strengths of wikis and concept maps in the realms of personal knowledge management in a single application.
-- This may end up being a winner, as the split screen wiki editor with
+- This may end up being a winner, as the split screen wiki editor with node editor seems great.
+- I wish this was a standalone app
+- I need to spend more time in this totally free solution that `currently` runs in the browser.
+
+#### [MacDown](https://macdown.uranusjr.com/history/testing/)
+For straight editing of .md files with a split preview, I like & use MacDown version `0.7.2d137`
+- I downloaded from here <https://macdown.uranusjr.com/history/testing/>
 
 
 ---
@@ -48,8 +54,7 @@ https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_ta
 
 https://tobloef.com/text2mindmap/
 
-For straight editing of .md files i use MacDown version 0.7.2d137 - 
-I downloaded from here <https://macdown.uranusjr.com/history/testing/>
+
 
 ---
 ### embed videos
