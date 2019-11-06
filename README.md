@@ -33,3 +33,11 @@ https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_ta
 https://tobloef.com/text2mindmap/
 
 ---
+### embed videos
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
