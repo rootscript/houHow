@@ -12,7 +12,7 @@
 
 #### New Group SOPs
 
-#### Solaris Physically based USD layout
+#### Solaris  Physically based USD layout
 
 #### Python 3
 
@@ -28,7 +28,7 @@
 
 [VIDEO](https://youtu.be/7X-r_XarMLI?t=1637)
 
-#### PDG process while you sleep
+#### PDG 
 
 Procedural Dependency Graph to automate workflows./ pipelines.
 - process while you sleep
@@ -54,7 +54,7 @@ Create a step by step list of actions to data.  Using nodes with attributes, and
 
 #### Reality Capture plugin 
 
-#### Quadspinner GAEA
+#### Quadspinner  GAEA
 
 Node based terrain editing tool. It exposes parameters from Gaea software. CommandLine Bride - Bundled TOR graphs - Custom TOR support. SideFX will start to bundle some standard TOR graphs like erosion, and some filters.
 
