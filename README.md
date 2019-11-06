@@ -28,7 +28,7 @@ I started researching I found the following:
 - I haven't tried this yet
 
 #### [WriteMapper 2](https://writemapper.com/) - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
-- I haven't tried this fully yet, (paid expensive), just does mindmap & markdown editing - seems a little basic, so I need to spend mopre time on the 7 day day trial.
+- I haven't tried this fully yet, (paid expensive), just does mindmap & markdown editing - seems a little basic, so I need to spend more time on the 7 day day trial.
 
 #### [Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
 
