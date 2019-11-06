@@ -55,7 +55,7 @@ I started researching I found the following:
 - I need to spend more time in this totally free solution that `currently` runs in the browser.
 - `UPDATE:`<https://noteself.github.io/> and this link to get it working <https://forum.noteself.org/t/tw-5-1-19-noteself-and-tiddlymap-together/187>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dmeIxuN0L5w?start=279" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="288" src="https://www.youtube.com/embed/dmeIxuN0L5w?start=279" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### [MacDown](https://macdown.uranusjr.com/history/testing/)
 For straight editing of .md files with a split preview, I like & use the free MacDown app version `0.7.2d137`
