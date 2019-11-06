@@ -31,7 +31,7 @@ I started researching I found the following:
 - I haven't tried this fully yet, (paid expensive), just does mindmap & markdown editing - seems a little basic, so I need to spend more time on the 7 day trial.
 
 #### [Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
-- download trial, a
+- download trial, appears to have evrything somewhere, very complex sofware
 
 #### [MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE
 
