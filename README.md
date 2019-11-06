@@ -48,7 +48,7 @@ I started researching I found the following:
 - This seems amazing for restructuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hidden away (maybe linked to a heavy keyboard shortcut workflow).
 - I need to spend more time in this totally free app.
 
-#### [TiddlyMap](http://tiddlymap.org/) - Map drawing and topic visualization for your TiddlyWiki.
+#### [TiddlyMap](http://tiddlymap.org/) - Map drawing and topic visualization for your TiddlyWiki (a non-linear personal web notebook).
 - The motivation behind TiddlyMap is to combine the strengths of wikis and concept maps in the realms of personal knowledge management in a single application.
 - This may end up being a winner, as the split screen wiki editor with node editor seems great.
 - I wish this was a standalone app
