@@ -50,6 +50,10 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 
 [SIDEFX tutorials alicevision-plugin/](https://www.sidefx.com/tutorials/alicevision-plugin/)
 
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 #### Reality Capture plugin 
 
 #### Quadspinner  GAEA
