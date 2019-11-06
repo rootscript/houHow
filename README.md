@@ -18,6 +18,7 @@ I started researching I found the following:
 #### [gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT.
 - This is nice, the workflow inside `gitnote` is clone a repo (The repo folder structure is visble as a tree, with an split pane for editing and preview).
 - `gitnote` has extensions for `grapheditor` which creates diagrams/flowcharts/UML and `kityminder`which creates mindmaps (and can import/export markdown files).  The diagrams & mindmaps created all live in the local `git` repo, and are synced to the cloned source.
+- 
 
 
 #### [NoteLynX Pro](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB) - 3-in-1 Outliner, Mindmap and Personal Wiki. An Outliner for Hierarchical Lists, a Mindmap for Graphical Tree View and embedded Hyperlinks to cross reference your notes.
