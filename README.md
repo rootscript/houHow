@@ -38,7 +38,7 @@ I started researching I found the following:
 - I need to spend more time in this totally free app.
 
 #### TiddlyMap - Map drawing and topic visualization for your TiddlyWiki.
-- This may end up being a winner
+- This may end up being a winner, as the split screen wiki editor with
 
 
 ---
