@@ -17,8 +17,7 @@ Originally started this plan in LucidChart, mapping the outline as a diagram and
 2. comment icons were huge when zoomed out (birdseye view)
 3. my notes/comments were stored inline
 
-
-
+![title](.local/static/2019/10/3/Houdini18_plan_lucidChart.1573042987114.svg)
 
 So I started looking at other software that combined mindmaps and markdown creation.  The mindmap would be great for laying out an outline of topics and restructing them, and markdown is a clean way to add text, links, images and videos (youtube & vimeo).
 
