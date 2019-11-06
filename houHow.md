@@ -58,7 +58,7 @@ Procedural Dependency Graph to automate workflows./ pipelines.
   <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 
-<iframe src="https://player.vimeo.com/video/318335199" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/318335199" width="640" height="450" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/318335199">[TUTORIAL] Game Tools | AliceVision</a> from <a href="https://vimeo.com/ambrosiussen">Paul Ambrosiussen</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 #### Reality Capture plugin 
