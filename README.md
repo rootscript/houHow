@@ -21,15 +21,15 @@ I started researching I found the following:
 
 
 #### [NoteLynX Pro](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB) - 3-in-1 Outliner, Mindmap and Personal Wiki. An Outliner for Hierarchical Lists, a Mindmap for Graphical Tree View and embedded Hyperlinks to cross reference your notes.
-- I haven't 
+- I haven't tried this yet (paid)
 
-[markdown-mindmap](https://atom.io/packages/markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
+#### [markdown-mindmap](https://atom.io/packages/markdown-mindmap) - Visualize markdown files as mindmaps in Atom editor
 
-[WriteMapper 2](https://writemapper.com/) - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
+#### [WriteMapper 2](https://writemapper.com/) - The content writing tool for visual thinkers to quickly and easily produce text documents using mind maps.
 
-[Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
+#### [Curio 13](https://www.zengobi.com/curio/) - Curio is an intuitive, freeform notebook environment with all the integrated tools you need to take notes, brainstorm ideas, collect research, and organize your tasks and documents.
 
-[MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE
+#### [MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE
 
 ---
 ### other links
