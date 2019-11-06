@@ -34,7 +34,7 @@ I started researching I found the following:
 - I downloaded the trial, appears to have everything somewhere, very complex sofware, I may need to spend more time with this to see if the output is proprietry.
 
 #### [MindForger](https://www.mindforger.com/) - Thinking Notebook & Markdown IDE.
-- This seems amazing for restructrucuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hiodden
+- This seems amazing for restructrucuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hidden away (maybe linked to a heavy keyboard shortcut workflow)
 
 ---
 ### other links
