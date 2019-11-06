@@ -3,7 +3,8 @@ My structured WIP plan to learn Houdini.
 
 
 ---
-## Finding a suitable Markdown editor / outliner 
+## Finding a suitable Markdown editor / outliner
+If I am 
 
 ### Currently using `gitnote` on this Github repo
 I testing in MacOS now, but there is a Windows installer & a portable that I need to test.
