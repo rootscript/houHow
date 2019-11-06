@@ -28,7 +28,7 @@
 
 [VIDEO](https://youtu.be/7X-r_XarMLI?t=1637)
 
-#### PDG 
+#### PDG Procedural Dependency Graph
 
 Procedural Dependency Graph to automate workflows./ pipelines.
 - process while you sleep
