@@ -37,6 +37,9 @@ I started researching I found the following:
 - This seems amazing for restructuring, but useage is very difficult. Finding a way to use this precise tool appears difficult, with many features hidden away (maybe linked to a heavy keyboard shortcut workflow).
 - I need to spend more time in this totally free app.
 
+#### TiddlyMap
+
+
 ---
 ### other links
 https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/
