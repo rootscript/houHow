@@ -41,8 +41,17 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 
 - COPS based, so Substance nodes can be used anywhere in Houdini.
 - [youtube](https://youtu.be/7X-r_XarMLI?t=1471)
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/7X-r_XarMLI?t=1471" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
 - workflow = Make a Substance archive (Spark), expose parameters, then load them in COPS.
 - [youtube](https://youtu.be/7X-r_XarMLI?t=1821)
+
+<figure class="video_container">
+  <iframe src="https://youtu.be/7X-r_XarMLI?t=1821" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
 
 #### AliceVision photogrammetry framework
 AliceVision is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. It has been made available as a plugin Houdini through the GameDevelopmentToolset.
