@@ -53,6 +53,7 @@ I started researching I found the following:
 - This may end up being a winner, as the split screen wiki editor with node editor seems great.
 - I wish this was a standalone app
 - I need to spend more time in this totally free solution that `currently` runs in the browser.
+- 
 
 #### [MacDown](https://macdown.uranusjr.com/history/testing/)
 For straight editing of .md files with a split preview, I like & use the free MacDown app version `0.7.2d137`
