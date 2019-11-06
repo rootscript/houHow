@@ -3,6 +3,7 @@ My structured WIP plan to learn Houdini.
 
 
 ---
+## Finding a suitable Markdown editor / outliner 
 ### history
 Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  I ran into some issues that bothered me:
 
@@ -14,7 +15,10 @@ So I started looking at other software that combined mindmaps and markdown creat
 
 I started researching I found the following:
 
-[gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT
+#### [gitnote](https://github.com/zhaopengme/gitnote) - A modern note taking app based on GIT.
+- This is nice, the workflow inside `gitnote` is clone a repo (The repo folder structure is visble as a tree, with an split pane for editing and preview).
+- `gitnote` has extensions for `grapheditor`
+
 
 [NoteLynX Pro](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB) - 3-in-1 Outliner, Mindmap and Personal Wiki. An Outliner for Hierarchical Lists, a Mindmap for Graphical Tree View and embedded Hyperlinks to cross reference your notes.
 
@@ -32,12 +36,9 @@ https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_ta
 
 https://tobloef.com/text2mindmap/
 
+For straight editing of .md files i use MacDown version 0.7.2d137 - 
+I downloaded from here <https://macdown.uranusjr.com/history/testing/>
+
 ---
 ### embed videos
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
 
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/0B6m34D8cFdpMZndKTlBRU0tmczg/preview" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
