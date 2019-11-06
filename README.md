@@ -53,7 +53,7 @@ I started researching I found the following:
 - This may end up being a winner, as the split screen wiki editor with node editor seems great.
 - I wish this was a standalone app
 - I need to spend more time in this totally free solution that `currently` runs in the browser.
-- `UPDATE:`<https://noteself.github.io/>
+- `UPDATE:`<https://noteself.github.io/> and this link to get it working <https://forum.noteself.org/t/tw-5-1-19-noteself-and-tiddlymap-together/187>
 
 #### [MacDown](https://macdown.uranusjr.com/history/testing/)
 For straight editing of .md files with a split preview, I like & use the free MacDown app version `0.7.2d137`
