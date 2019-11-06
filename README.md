@@ -7,7 +7,7 @@ My structured WIP plan to learn Houdini.
 If I am going to collate & document & process from lots of different sources a bespoke plan, I am going to need tools that allow me to document & organise the written documents, online tutorial videos, snippets of VEX code etc... so I will do this using markdown files stored in a repository on Github.
 
 ### Currently using `gitnote` on this Github repo
-I testing in MacOS now, but there is a Windows installer & a portable that I need to test.
+I am testing in MacOS now, and there is a Windows installer & a portable that I need to test.
 - On Android & IOS I will have to find a solution to easily edit the markdown files and sync  them to the Github repo.
 
 ### History
