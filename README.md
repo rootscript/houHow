@@ -46,7 +46,7 @@ I started researching I found the following:
 - I need to spend more time in this totally free solution that `currently` runs in the browser.
 
 #### [MacDown](https://macdown.uranusjr.com/history/testing/)
-For straight editing of .md files with a split preview, I like & use MacDown version `0.7.2d137`
+For straight editing of .md files with a split preview, I like & use the free MacDown app version `0.7.2d137`
 - I downloaded from here <https://macdown.uranusjr.com/history/testing/>
 
 
