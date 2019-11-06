@@ -28,6 +28,8 @@ I started researching I found the following:
 - `gitnote` has extensions for `grapheditor` which creates diagrams/flowcharts/UML and `kityminder`which creates mindmaps (and can import/export markdown files).  The diagrams & mindmaps created all live in the local `git` repo, and are synced to the cloned source.
 - it uses <https://github.com/fex-team/hotbox> for a nide radial right click menu when editing mindmaps in `kityminder`.
 - I had to edit some files and Google translate a few Chinese menus to english > `/Users/username/.gitnote/plugins/kityminder/lib/kityminder.editor/kityminder.editor.min.js`
+![title](.local/static/2019/10/3/houHow.1573043170132.svg)
+
 
 #### [NoteLynX Pro](https://play.google.com/store/apps/details?id=com.astrodean.notelynxpro&hl=en_GB) - 3-in-1 Outliner, Mindmap and Personal Wiki. An Outliner for Hierarchical Lists, a Mindmap for Graphical Tree View and embedded Hyperlinks to cross reference your notes.
 - I haven't tried this yet (paid)
