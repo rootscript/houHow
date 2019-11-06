@@ -100,6 +100,10 @@ Working on procedural modelling allows insgtant feedback whilst becoming familar
 
 ### Entagma
 
+### Game Development Toolset 
+
+[Tutorials LINK](https://www.sidefx.com/tutorials/game-development-toolset-overview/)
+
 ## Which Topics to Learn
 
 ![title](.local/static/2019/10/2/houHow.1572984338437.svg)
