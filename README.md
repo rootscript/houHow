@@ -11,7 +11,7 @@ I testing in MacOS now, but there is a Windows installer & a portable that I nee
 - On Android & IOS I will have to find a solution to easily edit the markdown files and sync  them to the Github repo.
 
 ### History
-Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  Files could be edited in the browser/IOS app/Android app, and stored in Google Drive (so not bad, cross platform & data accessable from anywhere as LucidChart has)I ran into some issues that bothered me:
+Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  Files could be edited in the browser/IOS app/Android app, and stored in Google Drive (so not bad, cross platform & data accessable from anywhere as LucidChart has a Google Drive integration also). I ran into some issues that bothered & me:
 
 1. free version has a node limitation
 2. comment icons were huge when zoomed out (birdseye view)
