@@ -31,3 +31,5 @@ I started researching I found the following:
 https://www.reddit.com/r/bearapp/comments/8dbzyr/feature_request_mindmap_with_tabs/
 
 https://tobloef.com/text2mindmap/
+
+---
