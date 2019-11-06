@@ -42,7 +42,7 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 - COPS based, so Substance nodes can be used anywhere in Houdini.
 - [youtube](https://youtu.be/7X-r_XarMLI?t=1471)
 
-<iframe width="800" height="480" src="https://www.youtube.com/embed/7X-r_XarMLI?start=1435" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="432" src="https://www.youtube.com/embed/7X-r_XarMLI?start=1435?VQ=HD720" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - workflow = Make a Substance archive (Spark), expose parameters, then load them in COPS.
 - [youtube](https://www.youtube.com/watch?v=7X-r_XarMLI&feature=youtu.be&t=1821)
