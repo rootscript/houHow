@@ -45,6 +45,7 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 - [youtube](https://youtu.be/7X-r_XarMLI?t=1821)
 
 #### AliceVision photogrammetry framework
+AliceVision is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. It has been made available as a plugin Houdini through the GameDevelopmentToolset.
 
 [VIMEO](https://vimeo.com/318335199)
 
@@ -152,3 +153,4 @@ Github Repo stored locally in my G: Google File Stream.
 ### VEX snippets
 
 ### Example .hip files
+
