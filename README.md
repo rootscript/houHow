@@ -4,7 +4,9 @@ My structured WIP plan to learn Houdini.
 
 ---
 ## Finding a suitable Markdown editor / outliner 
-### history
+
+
+### History
 Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  I ran into some issues that bothered me:
 
 1. free version has a node limitation
