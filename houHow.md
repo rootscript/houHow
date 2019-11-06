@@ -35,8 +35,6 @@ Procedural Dependency Graph to automate workflows./ pipelines.
 
 ### Integrations
 
-Create a step by step list of actions to data.  Using nodes with attributes, and or VEX code tp procedurally operate on data points.
-
 #### Substance V2 plugin
 
 ![title](.local/static/2019/10/2/Screenshot_substanvePluginV2.1572982442015.jpg)
@@ -109,6 +107,8 @@ Working on procedural modelling allows insgtant feedback whilst becoming familar
 ### Interface
 
 ### Working withe Nodes
+
+Create a step by step list of actions to data.  Using nodes with attributes, and or VEX code tp procedurally operate on data points.
 
 ### VEX code
 
