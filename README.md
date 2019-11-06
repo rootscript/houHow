@@ -38,6 +38,7 @@ I started researching I found the following:
 - I need to spend more time in this totally free app.
 
 #### TiddlyMap - Map drawing and topic visualization for your TiddlyWiki.
+- The motivation behind TiddlyMap is to combine the strengths of wikis and concept maps in the realms of personal knowledge management in a single application.
 - This may end up being a winner, as the split screen wiki editor with
 
 
