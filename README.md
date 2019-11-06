@@ -7,7 +7,8 @@ My structured WIP plan to learn Houdini.
 
 ### Currently using `gitnote` on this Github repo
 I testing in MacOS now, but there is a Windows installer & a portable that I need to test.
-- On Android & IOS I will have to find a solution to easily edit the markdown files and sync  them to the Githu
+- On Android & IOS I will have to find a solution to easily edit the markdown files and sync  them to the Github repo.
+
 ### History
 Originally started this plan in LucidChart, mapping the outline and adding notes and links as comments of the nodes.  I ran into some issues that bothered me:
 
