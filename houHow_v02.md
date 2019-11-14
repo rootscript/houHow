@@ -6,9 +6,7 @@
 
 ## Where are the Learnng Resources
 
-### Heightfield Terracing SOP 2.0
-
-[link](pages/Test.md)
+### Heightfield Terracing SOP 2.0 [*link*](pages/Test.md)
 
 ## Which Topics to Learn
 
